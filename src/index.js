@@ -1,5 +1,5 @@
-import './css/style.css';
+import './js/matchers';
 
-import './js/app';
+import './js/clear';
 
 // TODO: write your code in app.js
